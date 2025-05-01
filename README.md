@@ -45,4 +45,4 @@ I enjoy building ML-powered systems with real-world impact and love discussing c
 
 ---
 
-![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehreem&show_icons=true&theme=gradient)
+![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=TehreemAnsari&show_icons=true&theme=gradient)
