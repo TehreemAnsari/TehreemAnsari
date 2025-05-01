@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm a former **Software Development Engineer at Amazon** with 7+ years of experience in backend systems, **fraud detection**, **KYC**, **OCR**, and **identity verification**. I'm now actively work on personal projects and freelancing in deep learning and AI.
+I'm a former **Software Development Engineer at Amazon** with 7+ years of experience in backend systems, **fraud detection**, **KYC** and **identity verification**. I'm now actively work on personal projects and freelancing in deep learning and AI.
 
 I enjoy building ML-powered systems with real-world impact and love discussing cutting-edge tech, this helps me being upto date with the latest models & releases. 
 
