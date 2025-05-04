@@ -12,39 +12,6 @@ In April 2024, I transitioned from Amazon to pursue more **deep learning–orien
 
 💬 Feel free to reach out if you'd like to collaborate, share ideas, or discuss the latest in tech.
 
-
----
-
-## 🛠️ Technical Toolkit
-
-**Languages & Libraries:** Python, Java, NumPy, Pandas, TensorFlow, PyTorch  
-**Cloud & DevOps:** AWS (Lambda, EC2, SNS, SQS), CI/CD, Docker
-**Other:** REST APIs, Microservices, Git
-
----
-
-## 📊 Featured Projects
-
-#### 🔍 Fraud Detection & KYC
-#### 🧾 Paper KYC Digitization
-#### 📈 ML-Enhanced Verification
-
----
-
-## 🧪 Learning & Certifications
-
-- 🧬 **Neural Networks and Deep Learning (Deeplearning.ai)**
-- 🤖 **Machine Learning A–Z (SDS)**  
-- 🎓 **Artificial Intelligence A–Z**  
-
----
-
-## 🏆 Awards & Recognition
-
-- 🥈 2nd Position – IETE Inter-college Technical Paper Presentation  
-- 📌 Poster Selection – Recommender Systems, AMLC 2018  
-- 🏅 Recognized by Amazon for impactful RCA and fraud detection tooling
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TehreemAnsari&show_icons=true&theme=gradient&cache_buster=1)
