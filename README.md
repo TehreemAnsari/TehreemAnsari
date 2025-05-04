@@ -6,11 +6,11 @@
 ---
 ## 👋 About Me
 
-I work at the intersection of **software engineering** and **machine learning**. I completed my master's with a specialization in **Data Science** in 2018. Since then, I've worked at **Amazon**, contributing to systems focused on **fraud detection**, **KYC**, **document verification**, and **recommendation engines**.
+I work at the intersection of **software engineering** and **machine learning**. I completed my master's with a specialization in **Data Science** in 2018. Since then, I've worked at Amazon, contributing to systems focused on **fraud detection**, **KYC**, **document verification**, and **recommendation engines**.
 
 In April 2024, I transitioned from Amazon to pursue more **deep learning–oriented projects**. I build my projects **end-to-end**, leveraging my background in both **software development** and **data science**.
 
-💬 Feel free to reach out if you'd like to **collaborate**, share ideas, or discuss the **latest in tech**.
+💬 Feel free to reach out if you'd like to collaborate, share ideas, or discuss the latest in tech.
 
 
 ---
@@ -47,4 +47,4 @@ In April 2024, I transitioned from Amazon to pursue more **deep learning–orien
 
 ---
 
-![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=TehreemAnsari&show_icons=true&theme=gradient)
+![](https://github-readme-stats.vercel.app/api?username=TehreemAnsari&show_icons=true&theme=gradient)
