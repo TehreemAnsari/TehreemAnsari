@@ -47,4 +47,5 @@ In April 2024, I transitioned from Amazon to pursue more **deep learning–orien
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=TehreemAnsari&show_icons=true&theme=gradient)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TehreemAnsari&show_icons=true&theme=gradient&cache_buster=1)
+
