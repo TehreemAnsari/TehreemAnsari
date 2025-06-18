@@ -6,7 +6,7 @@
 
 I work on **softwares**, **machine learning** and **everything in between**. I completed my master's with a specialization in **Data Science** in 2018. Since then, I've worked at Amazon, contributing to systems focused on **fraud detection**, **KYC**, **document verification**, and **recommendation engines**.
 
-In April 2024, I transitioned from Amazon to build **whatever I want projects**.
+2025, I am learning and building the **whatever I want projects**. 
 
 💬 Feel free to reach out if you'd like to collaborate, share ideas, or discuss the latest in tech.
 
